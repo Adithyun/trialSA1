@@ -1,4 +1,4 @@
-LINE 1
+Now I edit again
 LINE 2
 LINE 3
 LINE 4
