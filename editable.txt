@@ -1,3 +1,3 @@
-LINE 1
-LINE 2
+I added line 1
+I edited LINE 2
 I edited LINE 3
